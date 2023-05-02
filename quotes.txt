@@ -180,7 +180,7 @@ Promises heal you in the present, and kill you in the future.
 "The heart surrenders everything to the moment. The mind judges and holds back." - Ram Dass
 "You make mistakes. Mistakes don't make you." - Maxwell Maltz
 "All stories are true. But some of them never happened." - James A. Owen
-"Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good." - Marcus Aurelius, Meditations
+"Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good." - Marcus Aurelius, "Meditations"
 "When you think about something so intensely for so long, it kind of has a way of taking over everything else." - Nina LaCour and David Levithan
 "The one thing you can change is how you treat yourself. And that one thing can change everything." - Unknown
 "Don't you know yet? It is your light that lights the worlds." - Rumi
@@ -191,7 +191,7 @@ Promises heal you in the present, and kill you in the future.
 Remind yourself that you don't have to do what everyone else is doing.
 "When you talk you are only repeating what you already know. But when you listen you may learn something new." - Unknown
 "Everyone has secrets. It's just a matter of finding out what they are." - Stieg Larsson
-Never stop being a good person because of bad people.
+"Never stop being a good person because of bad people." - Unknown
 "I want to live my life so that my nights are not full of regrets." - D. H. Lawrence
 "It is easier to forgive an enemy than forgive a friend." - William Blake
 "Rest and self-care are so important. When you take time to replenish your spirit, it allows you to serve others from the overflow. You cannot serve from an empty vessel." - Eleanor Brown
@@ -222,7 +222,7 @@ I think part of the reason why we hold on to something so tightly is we fear som
 Believe in yourself. Always.
 "Three can keep a secret - if two of them are dead." - Benjamin Franklin
 "At any given point you have the power to say, this is not how the story is going to end." - Unknown
-Try to reason about love and you will lose your reason.
+"Try to reason about love and you will lose your reason." - Unknown
 "We suffer from the delusion that the entire universe is held in order by the categories of human thought, fearing that if we do not hold to them with the utmost tenacity, everything will vanish into chaos." - Alan Watts
 "All you need in this life is ignorance and confidence, and then success is sure." - Mark Twain
 "I've decided to make myself strong. As far as I can tell, that's all I can do." - Haruki Murakami
@@ -241,13 +241,13 @@ Trust yourself. You've survived a lot. And you'll survive whatever is coming.
 "We're each alone inside our heads, some more so than others." - Jonathan Maberry
 "Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength." - Arnold Schwarzenegger
 "I've reinvented myself once. And I can do it again." - Brandon Stanton, "Humans of New York"
-You hear but are you listening? You exist but are you living? You look but do you see?
-I've got nothing to say but it's okay.
+"You hear but are you listening? You exist but are you living? You look but do you see?" - Unknown
+"I've got nothing to say but it's okay." - Unknown
 "I needed to be somewhere different. Maybe I needed to be someone different, too." - Heather Davis, "The Clearing"
-Life is a balance between rest and movement.
+"Life is a balance between rest and movement." - Unknown
 "If you expect nothing from somebody you are never disappointed." - Sylvia Plath, "The Bell Jar"
 "People inspire you, or they drain you - pick them wisely." - Hans F. Hansen
-Don't be a victim of your own mind.
+"Don't be a victim of your own mind." - Unknown
 "You only get one life. It's actually your duty to live it as fully as possible." - Jojo Moyes, "Me Before You"
 "I've lived too long with pain. I won't know who I am without it." - Orson Scott Card
 "To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly." - Henri Bergson
@@ -560,7 +560,7 @@ Haruki Murakami, "Blind Willow, Sleeping Woman"
 "Success is a consequence and must not be a goal." - Gustave Flaubert
 "If I have seen further than others, it is by standing upon the shoulders of giants." - Isaac Newton
 "My powers are ordinary. Only my application brings me success." - Isaac Newton
-"Tact is the art of making a point without making an enemy." - Isaac Newton (ed note: Newton must have had little to no tact at all, then.)
+"Tact is the art of making a point without making an enemy." - Isaac Newton 
 "Genius is patience." - Isaac Newton
 "You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life." - Albert Camus
 "Freedom is nothing but a chance to be better." - Albert Camus
@@ -1600,11 +1600,11 @@ I am nothing special, of this I am sure. I am a common man with common thoughts 
 "Words that come from the heart are never spoken, they get caught in the throat and can only be read in ones's eyes." - José Saramago
 "I am a collection of dismantled almosts." - Anne Sexton, "A Self-Portrait in Letters"
 "I feel very small. I don’t understand. I have so much courage, fire, energy, for many things, yet I get so hurt, so wounded by small things." - Anaïs Nin, "Nearer the Moon"
-"I’m in pain because the day is ending and somehow l am never healing." - Anne Sexton, "A Self-Portrait In Letters"
+"I’m in pain because the day is ending and somehow I am never healing." - Anne Sexton, "A Self-Portrait In Letters"
 "Suddenly she realized that what she was regretting was not the lost past but the lost future, not what had not been but what would never be." - F. Scott Fitzgerald, "A Nice Quiet Place"
 "I’m not everything I want to be, but l’m more than I was, and l’m still learning." - Charlotte Eriksson, "Everything Changed When I Forgave Myself"
 "I understand that nobody understands me, but I can’t be someone I’m not." - Audrey Tautou
-"if ever you were in the vicinity of a loner, you might believe there is tranquillity in solitude, but if ever you were a loner, you know solitude is an escape from the pandemonium in a world that never could hear you screaming." - Ekta Somera
+"If ever you were in the vicinity of a loner, you might believe there is tranquillity in solitude, but if ever you were a loner, you know solitude is an escape from the pandemonium in a world that never could hear you screaming." - Ekta Somera
 "You were hurt badly, and those scars will be with you for ever. I feel sorry for you, I really do. But think of it like this: it’s not too late to recover. You’re young, you’re tough. You’re adaptable. You can patch up your wounds, lift up your head and move on." - Haruki Murakami, "Kafka on the Shore"
 "That is my story, simply told. Please do not ask again. I have told you in order to issue a warning. I have been damaged. Damaged people are dangerous. They know they can survive." - Josephine Hart, "Damage"
 "You are your own worst enemy. It is your negative thoughts that hold you back, nothing else." - Leon Brown
@@ -1620,3 +1620,39 @@ I am nothing special, of this I am sure. I am a common man with common thoughts 
 "I believe that suffering is part of the narrative, and that nothing really good gets built when everything’s easy. I believe that loss and emptiness and confusion often give way to new fullness and wisdom." - Shauna Niequist
 "I mean, say that you figure that everything is senseless, then it can’t be quite senseless because you are aware that it’s senseless and your awareness of senselessness almost gives it sense. You know what I mean?" - Charles Bukowski, "Pulp"
 "True love is rare, and it’s the only thing that gives life real meaning." - Nicholas Sparks, "Message in a Bottle"
+"Accept yourself as you are. And that is the most difficult thing in the world, because it goes against your training, education, your culture. From the very beginning you’ve been told how you should be; nobody has ever told you that you are good as you are." - Osho
+"What is the biggest thing that stops people from living their lives in the present moment? Fear — and we must learn how to overcome fear." - Brian Weiss
+"Time is tricky. You have whole months, even years, when nothing changes a speck, when you don’t go anywhere or do anything or think one new thought. And then you can get hit with a day, or an hour, or a half a second when so much happens it’s almost like you got born all over again into some brand-new person you for damn sure never expected to meet." - E.R. Frank, "Life Is Funny" 
+"There are some things about myself I can’t explain to anyone. There are some things I don’t understand at all. I can’t tell what I think about things or what I’m after. I don’t know what my strengths are or what I’m supposed to do about them. But if I start thinking about these things in too much detail the whole thing gets scary." - Haruki Murakami, "A Slow Boat to China" 
+"It’s not just other people we need to forgive. We also need to forgive ourselves. For all the things we didn’t do. All the things we should have done." - Mitch Albom
+"It doesn’t matter how many people you meet in your life; you just need the real ones who accept you for who you are and help you become who you should be." - Roy T. Bennett
+"As we go through life we gradually discover who we are, but the more we discover, the more we lose ourselves." - Haruki Murakami, "Colorless Tsukuru Tazaki and His Years of Pilgrimage" 
+"Please remember: things are not what they seem." - Haruki Murakami, "1Q84" 
+"I was always hungry for love. Just once, I wanted to know what it was like to get my fill of it — to be fed so much love I couldn’t take any more. Just once." - Haruki Murakami
+"I close my eyes, but I can’t fall asleep, my body dying for rest while my mind’s wide awake." - Haruki Murakami, "Kafka on the Shore" 
+"Instead of saying ‘I’m damaged, I’m broken, I have trust issues’ say ‘I’m healing, I’m rediscovering myself, I’m starting over." - Horatio Jones
+"The nice part about being a pessimist is that you are constantly being either proven right or pleasantly surprised." - George F. Will
+"Music seems to hold everything together. It seems to make things not so chaotic sometimes. It seems to make things make more sense sometimes." - Tyler Joseph
+"Forget everything. Open the windows. Clear the room. The wind blows through it. You see only its emptiness, you search in every corner and don’t find yourself." - Franz Kafka, "Diaries" 
+"For the moment I am really very, very tired of everything — more than tired." - Friedrich Nietzsche
+"I want to calm down, to rest, to outlive this nonsense." - Anne Sexton
+"We have calcium in our bones, iron in our veins, carbon in our souls, and nitrogen in our brains. 93 percent stardust, with souls made of flames, we are all just stars that have people names." - Nikita Gill
+"I must change my life so that I can live it, not wait for it." - Susan Sontag
+"Nobody can teach me who I am. You can describe parts of me, but who I am, and what I need, is something I have to find out myself." - Chinua Achebe
+"I still look back on those evenings we spent together as the happiest part of my life, and I wanted it to go on forever." - Henry MacAlpine
+"I think you lost all interest in this world. You were disappointed and discouraged, and lost interest in everything. So you abandoned your physical body. You went to a world apart and you’re living a different kind of life there. In a world inside you." - Haruki Murakami, "1Q84" 
+"Not everyone likes me but not everyone matters." - Unknown
+"As soon as healing takes place, go out and heal someone else." - Maya Angelou
+"I had a weird, empty feeling inside me. Not a bad sort of empty. It was a sort of lack of sensation, like being in pain for a long time and then suddenly realizing that you’re not anymore." - Maggie Stiefvater, "Linger" 
+"It’s okay if I’m not your favorite chapter you have written, but I hope you sometimes smile when you flip back to the pages I was still apart of." - Unknown
+"If you feel lost, you just have to start trying anything and everything. Only action brings change. You can’t just sit there and overthink it." - Tai Lopez
+"In my eyes, good conversation is the birthplace of true attraction. So open up and share with me every encounter and experience that shaped you into who you are today. Tell me all about your hopes and dreams and captivate me with your passions. Arouse my curiosity and you’ll have my attention." - Beau Taplin
+"The thing I’m most afraid of is me. Of not knowing what I’m going to do. Of not knowing what I’m doing right now." - Haruki Murakami, "1Q84" 
+"I see myself forever and ever as the ridiculous person, the lonely soul, the wanderer, the restless frustrated artist, the person in love with love, always in search of the absolute, always seeking the unattainable." - Henry Miller
+"I felt utterly alone, like I was the last person alive on Earth. I can’t describe that feeling of total loneliness. I just wanted to disappear into thin air and not think about anything." - Haruki Murakami, "Kafka on the Shore" 
+"Take care not to invest all of your strength and energy on keeping up appearances or disguising your insecurities when what’s really essential to projecting a secure, confident presence is developing a healthy self-esteem and a kind and courageous heart." - Beau Taplin
+"I’m not all that smart. It takes me a while to understand things. But if I do have the time, I will come to understand you — better than anyone else in the world." - Haruki Murakami, "Norwegian Wood" 
+"I’m the kind of person who likes to be by himself. To put a finer point on it, I’m the type of person who doesn’t find it painful to be alone." - Haruki Murakami, "What I Talk About When I Talk About Running" 
+"Maybe our favourite quotations say more about us than about the stories and people we’re quoting." - John Green
+"Most people carry that pain around inside them their whole lives, until they kill the pain by other means, or until it kills them. But you, my friends, you found another way: a way to use the pain. To burn it as fuel, for light and warmth. You have learned to break the world that has tried to break you." - Lev Grossman
+"I have a mind like ocean waves. Shifting always, too violent or too gentle, burning like salt water. Come too close and I worry that I will swallow you." - Zoë Lianne, "Black and White" 
