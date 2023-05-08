@@ -169,12 +169,12 @@ Words have power. Use them wisely.
 "Begin to see yourself as a soul with a body rather than a body with a soul." - Wayne Dyer
 "Every one says forgiveness is a lovely idea, until they have something to forgive." - C.S. Lewis
 "Forgiveness is the best form of love. It takes a strong person to say sorry and an even stronger person to forgive." - Unknown
-One lie can end a million trusts.
+"One lie can end a million trusts." - Unknown
 "Just because something doesn't last forever, doesn't mean it wasn't meaningful while it did last." - Candace Bushnell
-Don't allow someone to make you feel that you're not good enough.
+"Don't allow someone to make you feel that you're not good enough." - Unknown
 "I walk slowly, but I never walk backward." - Abraham Lincoln
 "People will kill you over time, and how they'll kill you is with tiny, harmless phrases, like 'be realistic." - Dylan Moran
-Promises heal you in the present, and kill you in the future.
+"Promises heal you in the present, and kill you in the future." - Unknown
 "If you're struggling and your people are just sitting there watching you struggle, they're not your people." - Unknown
 "Your happiness is the greatest revenge against those who wish to bring you down." - Unknown
 "The heart surrenders everything to the moment. The mind judges and holds back." - Ram Dass
@@ -202,7 +202,7 @@ Remind yourself that you don't have to do what everyone else is doing.
 "I'm almost never serious, and I'm always too serious. Too deep, too shallow. Too sensitive, too cold hearted. I'm like a collection of paradoxes." - Ferdinand de Saussure
 "Hope can be a powerful force. Maybe there's no actual magic in it, but when you know what you hope for most and hold it like a light within you, you can make things happen, almost like magic." - Laini Taylor, "Daughter of Smoke & Bone"
 "You have your whole life ahead of you. Don't spend all your time in the past." - Gregory Galloway, "As Simple as Snow"
-"Some people don't understand the promises they're making when they make them." - John Green
+"Some people don't understand the promises they're making when they make them." - John Green, "The Fault In Our Stars"
 "There is no perfection. Just beautiful versions of brokenness." - Unknown
 "Time only moves in one direction. Remember that. Things always change." - Mohsin Hamid, "The Reluctant Fundamentalist"
 "What's the greater risk? Letting go of what people think or letting go of how I feel, what I believe, and who I am?" - Brene Brown
@@ -236,7 +236,7 @@ Trust is like paper. Once crumpled, it will never be perfect again.
 "The only true wisdom is in knowing you know nothing." - Socrates
 "Some people would rather live in a hell they've got used to than in a paradise they've never experienced before." - Urania Sarri
 "Some days I feel everything at once. Other days I feel nothing at all. I don't know what's worse: drowning beneath the waves or dying from the thirst." - O.M, "The Idealist"
-Trust yourself. You've survived a lot. And you'll survive whatever is coming.
+"Trust yourself. You've survived a lot. And you'll survive whatever is coming." - Unknown
 "Don't sit and wait. Get out there. Feel life." - Rumi
 "We're each alone inside our heads, some more so than others." - Jonathan Maberry
 "Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength." - Arnold Schwarzenegger
@@ -560,7 +560,7 @@ Haruki Murakami, "Blind Willow, Sleeping Woman"
 "Success is a consequence and must not be a goal." - Gustave Flaubert
 "If I have seen further than others, it is by standing upon the shoulders of giants." - Isaac Newton
 "My powers are ordinary. Only my application brings me success." - Isaac Newton
-"Tact is the art of making a point without making an enemy." - Isaac Newton 
+"Tact is the art of making a point without making an enemy." - Isaac Newton
 "Genius is patience." - Isaac Newton
 "You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life." - Albert Camus
 "Freedom is nothing but a chance to be better." - Albert Camus
@@ -1599,60 +1599,124 @@ I am nothing special, of this I am sure. I am a common man with common thoughts 
 "I am still learning." - Michelangelo
 "Words that come from the heart are never spoken, they get caught in the throat and can only be read in ones's eyes." - José Saramago
 "I am a collection of dismantled almosts." - Anne Sexton, "A Self-Portrait in Letters"
-"I feel very small. I don’t understand. I have so much courage, fire, energy, for many things, yet I get so hurt, so wounded by small things." - Anaïs Nin, "Nearer the Moon"
-"I’m in pain because the day is ending and somehow I am never healing." - Anne Sexton, "A Self-Portrait In Letters"
+"I feel very small. I don't understand. I have so much courage, fire, energy, for many things, yet I get so hurt, so wounded by small things." - Anaïs Nin, "Nearer the Moon"
+"I'm in pain because the day is ending and somehow I am never healing." - Anne Sexton, "A Self-Portrait In Letters"
 "Suddenly she realized that what she was regretting was not the lost past but the lost future, not what had not been but what would never be." - F. Scott Fitzgerald, "A Nice Quiet Place"
-"I’m not everything I want to be, but l’m more than I was, and l’m still learning." - Charlotte Eriksson, "Everything Changed When I Forgave Myself"
-"I understand that nobody understands me, but I can’t be someone I’m not." - Audrey Tautou
+"I'm not everything I want to be, but l'm more than I was, and l'm still learning." - Charlotte Eriksson, "Everything Changed When I Forgave Myself"
+"I understand that nobody understands me, but I can't be someone I'm not." - Audrey Tautou
 "If ever you were in the vicinity of a loner, you might believe there is tranquillity in solitude, but if ever you were a loner, you know solitude is an escape from the pandemonium in a world that never could hear you screaming." - Ekta Somera
-"You were hurt badly, and those scars will be with you for ever. I feel sorry for you, I really do. But think of it like this: it’s not too late to recover. You’re young, you’re tough. You’re adaptable. You can patch up your wounds, lift up your head and move on." - Haruki Murakami, "Kafka on the Shore"
+"You were hurt badly, and those scars will be with you for ever. I feel sorry for you, I really do. But think of it like this: it's not too late to recover. You're young, you're tough. You're adaptable. You can patch up your wounds, lift up your head and move on." - Haruki Murakami, "Kafka on the Shore"
 "That is my story, simply told. Please do not ask again. I have told you in order to issue a warning. I have been damaged. Damaged people are dangerous. They know they can survive." - Josephine Hart, "Damage"
 "You are your own worst enemy. It is your negative thoughts that hold you back, nothing else." - Leon Brown
-"Love is a choice. It’s not something that just happens to us, but something that we actively decide to give and receive. It requires effort, commitment, and sacrifice, but it can also bring great rewards." - Unknown
-"Just remember that, sometimes, the way you think about a person isn’t the way they actually are…" - John Green, "Paper Towns"
+"Love is a choice. It's not something that just happens to us, but something that we actively decide to give and receive. It requires effort, commitment, and sacrifice, but it can also bring great rewards." - Unknown
+"Just remember that, sometimes, the way you think about a person isn't the way they actually are…" - John Green, "Paper Towns"
 "It takes ten times as long to put yourself together as it does to fall apart." - Suzanne Collins, "Mockingjay"
 "Without music, life would be a mistake." - Friedich Nietzsche, "Twilight of the Idols"
 "Everyone says love hurts, but that is not true. Loneliness hurts. Rejection hurts. Losing someone hurts. Envy hurts. Everyone gets these things confused with love, but in reality love is the only thing in this world that covers up all pain and makes someone feel wonderful again. Love is the only thing in this world that does not hurt." - Meša Selimović
 "Please, I want so badly for the good things to happen." - Sylvia Plath
-"Never let fear and stupid pride make you lose someone who’s precious to you." - Haruki Murakami, "Colorless Tsukuru Tazaki and His Years of Pilgrimage"
-"The sad truth is that certain types of things can’t go backward. Once they start going forward, no matter what you do, they can’t go back the way they were. If even one little thing goes awry, then that’s how it will stay forever." - Haruki Murakami
-"Life is too short to waste your time on people who don’t respect, appreciate, and value you." - Roy T. Bennett, "The Light in the Heart"
-"I believe that suffering is part of the narrative, and that nothing really good gets built when everything’s easy. I believe that loss and emptiness and confusion often give way to new fullness and wisdom." - Shauna Niequist
-"I mean, say that you figure that everything is senseless, then it can’t be quite senseless because you are aware that it’s senseless and your awareness of senselessness almost gives it sense. You know what I mean?" - Charles Bukowski, "Pulp"
-"True love is rare, and it’s the only thing that gives life real meaning." - Nicholas Sparks, "Message in a Bottle"
-"Accept yourself as you are. And that is the most difficult thing in the world, because it goes against your training, education, your culture. From the very beginning you’ve been told how you should be; nobody has ever told you that you are good as you are." - Osho
+"Never let fear and stupid pride make you lose someone who's precious to you." - Haruki Murakami, "Colorless Tsukuru Tazaki and His Years of Pilgrimage"
+"The sad truth is that certain types of things can't go backward. Once they start going forward, no matter what you do, they can't go back the way they were. If even one little thing goes awry, then that's how it will stay forever." - Haruki Murakami
+"Life is too short to waste your time on people who don't respect, appreciate, and value you." - Roy T. Bennett, "The Light in the Heart"
+"I believe that suffering is part of the narrative, and that nothing really good gets built when everything's easy. I believe that loss and emptiness and confusion often give way to new fullness and wisdom." - Shauna Niequist
+"I mean, say that you figure that everything is senseless, then it can't be quite senseless because you are aware that it's senseless and your awareness of senselessness almost gives it sense. You know what I mean?" - Charles Bukowski, "Pulp"
+"True love is rare, and it's the only thing that gives life real meaning." - Nicholas Sparks, "Message in a Bottle"
+"Accept yourself as you are. And that is the most difficult thing in the world, because it goes against your training, education, your culture. From the very beginning you've been told how you should be; nobody has ever told you that you are good as you are." - Osho
 "What is the biggest thing that stops people from living their lives in the present moment? Fear — and we must learn how to overcome fear." - Brian Weiss
-"Time is tricky. You have whole months, even years, when nothing changes a speck, when you don’t go anywhere or do anything or think one new thought. And then you can get hit with a day, or an hour, or a half a second when so much happens it’s almost like you got born all over again into some brand-new person you for damn sure never expected to meet." - E.R. Frank, "Life Is Funny" 
-"There are some things about myself I can’t explain to anyone. There are some things I don’t understand at all. I can’t tell what I think about things or what I’m after. I don’t know what my strengths are or what I’m supposed to do about them. But if I start thinking about these things in too much detail the whole thing gets scary." - Haruki Murakami, "A Slow Boat to China" 
-"It’s not just other people we need to forgive. We also need to forgive ourselves. For all the things we didn’t do. All the things we should have done." - Mitch Albom
-"It doesn’t matter how many people you meet in your life; you just need the real ones who accept you for who you are and help you become who you should be." - Roy T. Bennett
-"As we go through life we gradually discover who we are, but the more we discover, the more we lose ourselves." - Haruki Murakami, "Colorless Tsukuru Tazaki and His Years of Pilgrimage" 
-"Please remember: things are not what they seem." - Haruki Murakami, "1Q84" 
-"I was always hungry for love. Just once, I wanted to know what it was like to get my fill of it — to be fed so much love I couldn’t take any more. Just once." - Haruki Murakami
-"I close my eyes, but I can’t fall asleep, my body dying for rest while my mind’s wide awake." - Haruki Murakami, "Kafka on the Shore" 
-"Instead of saying ‘I’m damaged, I’m broken, I have trust issues’ say ‘I’m healing, I’m rediscovering myself, I’m starting over." - Horatio Jones
+"Time is tricky. You have whole months, even years, when nothing changes a speck, when you don't go anywhere or do anything or think one new thought. And then you can get hit with a day, or an hour, or a half a second when so much happens it's almost like you got born all over again into some brand-new person you for damn sure never expected to meet." - E.R. Frank, "Life Is Funny"
+"There are some things about myself I can't explain to anyone. There are some things I don't understand at all. I can't tell what I think about things or what I'm after. I don't know what my strengths are or what I'm supposed to do about them. But if I start thinking about these things in too much detail the whole thing gets scary." - Haruki Murakami, "A Slow Boat to China"
+"It's not just other people we need to forgive. We also need to forgive ourselves. For all the things we didn't do. All the things we should have done." - Mitch Albom
+"It doesn't matter how many people you meet in your life; you just need the real ones who accept you for who you are and help you become who you should be." - Roy T. Bennett
+"As we go through life we gradually discover who we are, but the more we discover, the more we lose ourselves." - Haruki Murakami, "Colorless Tsukuru Tazaki and His Years of Pilgrimage"
+"Please remember: things are not what they seem." - Haruki Murakami, "1Q84"
+"I was always hungry for love. Just once, I wanted to know what it was like to get my fill of it — to be fed so much love I couldn't take any more. Just once." - Haruki Murakami
+"I close my eyes, but I can't fall asleep, my body dying for rest while my mind's wide awake." - Haruki Murakami, "Kafka on the Shore"
+"Instead of saying 'I'm damaged, I'm broken, I have trust issues' say 'I'm healing, I'm rediscovering myself, I'm starting over." - Horatio Jones
 "The nice part about being a pessimist is that you are constantly being either proven right or pleasantly surprised." - George F. Will
 "Music seems to hold everything together. It seems to make things not so chaotic sometimes. It seems to make things make more sense sometimes." - Tyler Joseph
-"Forget everything. Open the windows. Clear the room. The wind blows through it. You see only its emptiness, you search in every corner and don’t find yourself." - Franz Kafka, "Diaries" 
+"Forget everything. Open the windows. Clear the room. The wind blows through it. You see only its emptiness, you search in every corner and don't find yourself." - Franz Kafka, "Diaries"
 "For the moment I am really very, very tired of everything — more than tired." - Friedrich Nietzsche
 "I want to calm down, to rest, to outlive this nonsense." - Anne Sexton
 "We have calcium in our bones, iron in our veins, carbon in our souls, and nitrogen in our brains. 93 percent stardust, with souls made of flames, we are all just stars that have people names." - Nikita Gill
 "I must change my life so that I can live it, not wait for it." - Susan Sontag
 "Nobody can teach me who I am. You can describe parts of me, but who I am, and what I need, is something I have to find out myself." - Chinua Achebe
 "I still look back on those evenings we spent together as the happiest part of my life, and I wanted it to go on forever." - Henry MacAlpine
-"I think you lost all interest in this world. You were disappointed and discouraged, and lost interest in everything. So you abandoned your physical body. You went to a world apart and you’re living a different kind of life there. In a world inside you." - Haruki Murakami, "1Q84" 
+"I think you lost all interest in this world. You were disappointed and discouraged, and lost interest in everything. So you abandoned your physical body. You went to a world apart and you're living a different kind of life there. In a world inside you." - Haruki Murakami, "1Q84"
 "Not everyone likes me but not everyone matters." - Unknown
 "As soon as healing takes place, go out and heal someone else." - Maya Angelou
-"I had a weird, empty feeling inside me. Not a bad sort of empty. It was a sort of lack of sensation, like being in pain for a long time and then suddenly realizing that you’re not anymore." - Maggie Stiefvater, "Linger" 
-"It’s okay if I’m not your favorite chapter you have written, but I hope you sometimes smile when you flip back to the pages I was still apart of." - Unknown
-"If you feel lost, you just have to start trying anything and everything. Only action brings change. You can’t just sit there and overthink it." - Tai Lopez
-"In my eyes, good conversation is the birthplace of true attraction. So open up and share with me every encounter and experience that shaped you into who you are today. Tell me all about your hopes and dreams and captivate me with your passions. Arouse my curiosity and you’ll have my attention." - Beau Taplin
-"The thing I’m most afraid of is me. Of not knowing what I’m going to do. Of not knowing what I’m doing right now." - Haruki Murakami, "1Q84" 
+"I had a weird, empty feeling inside me. Not a bad sort of empty. It was a sort of lack of sensation, like being in pain for a long time and then suddenly realizing that you're not anymore." - Maggie Stiefvater, "Linger"
+"It's okay if I'm not your favorite chapter you have written, but I hope you sometimes smile when you flip back to the pages I was still apart of." - Unknown
+"If you feel lost, you just have to start trying anything and everything. Only action brings change. You can't just sit there and overthink it." - Tai Lopez
+"In my eyes, good conversation is the birthplace of true attraction. So open up and share with me every encounter and experience that shaped you into who you are today. Tell me all about your hopes and dreams and captivate me with your passions. Arouse my curiosity and you'll have my attention." - Beau Taplin
+"The thing I'm most afraid of is me. Of not knowing what I'm going to do. Of not knowing what I'm doing right now." - Haruki Murakami, "1Q84"
 "I see myself forever and ever as the ridiculous person, the lonely soul, the wanderer, the restless frustrated artist, the person in love with love, always in search of the absolute, always seeking the unattainable." - Henry Miller
-"I felt utterly alone, like I was the last person alive on Earth. I can’t describe that feeling of total loneliness. I just wanted to disappear into thin air and not think about anything." - Haruki Murakami, "Kafka on the Shore" 
-"Take care not to invest all of your strength and energy on keeping up appearances or disguising your insecurities when what’s really essential to projecting a secure, confident presence is developing a healthy self-esteem and a kind and courageous heart." - Beau Taplin
-"I’m not all that smart. It takes me a while to understand things. But if I do have the time, I will come to understand you — better than anyone else in the world." - Haruki Murakami, "Norwegian Wood" 
-"I’m the kind of person who likes to be by himself. To put a finer point on it, I’m the type of person who doesn’t find it painful to be alone." - Haruki Murakami, "What I Talk About When I Talk About Running" 
-"Maybe our favourite quotations say more about us than about the stories and people we’re quoting." - John Green
+"I felt utterly alone, like I was the last person alive on Earth. I can't describe that feeling of total loneliness. I just wanted to disappear into thin air and not think about anything." - Haruki Murakami, "Kafka on the Shore"
+"Take care not to invest all of your strength and energy on keeping up appearances or disguising your insecurities when what's really essential to projecting a secure, confident presence is developing a healthy self-esteem and a kind and courageous heart." - Beau Taplin
+"I'm not all that smart. It takes me a while to understand things. But if I do have the time, I will come to understand you — better than anyone else in the world." - Haruki Murakami, "Norwegian Wood"
+"I'm the kind of person who likes to be by himself. To put a finer point on it, I'm the type of person who doesn't find it painful to be alone." - Haruki Murakami, "What I Talk About When I Talk About Running"
+"Maybe our favourite quotations say more about us than about the stories and people we're quoting." - John Green
 "Most people carry that pain around inside them their whole lives, until they kill the pain by other means, or until it kills them. But you, my friends, you found another way: a way to use the pain. To burn it as fuel, for light and warmth. You have learned to break the world that has tried to break you." - Lev Grossman
-"I have a mind like ocean waves. Shifting always, too violent or too gentle, burning like salt water. Come too close and I worry that I will swallow you." - Zoë Lianne, "Black and White" 
+"I have a mind like ocean waves. Shifting always, too violent or too gentle, burning like salt water. Come too close and I worry that I will swallow you." - Zoë Lianne, "Black and White"
+"Believe in yourself and all that you are. Know that there is something inside of you that is greater than any obstacle." - Christian D. Larson
+"Whatever someone you become, and wherever you are in the world, I'm sending you love. You're my friend to the end." - Spike Jonze
+"You go your way, I'll go your way too." - Leonard Cohen
+"You remember your first love because they show you, prove to you, that you can love and be loved, that nothing in this world is deserved except for love, that love is both how you become a person and why." - John Green, "Turtles All the Way Down"
+"Did I really want to stay on this road longer, knowing it was only going to end in devastation?" - Becca Fitzpatrick
+"When people walk away from you, let them go. Your destiny is never tied to someone who leaves you. And it doesn't mean they are bad people, it just means that their part in your story is over." - Tony McCollum
+"Scare the world: Be exactly who you say you are and tell the truth." - Unknown
+"Letting go. Everyone talks about it like it's the easiest thing. Unfurl your fingers one by one until your hand is open. But my hand has been clenched into a fist for… years now; it's frozen shut." - Gayle Forman
+"Falling asleep is a kinda crazy. You just lay there until you lose consciousness. If you think about it you can't sleep. You can lay down. You can close your eyes. But you can't sleep, it just happens." - Unknown
+"He's more myself than I am. Whatever our souls are made of, his and mine are the same." - Emily Brontë
+"Soon you'll realize that many people will love the idea of you but will lack the maturity to handle the reality of you." - Reyna Biddy
+"It's weird to feel like you miss someone you're not even sure you know." - David Foster Wallace, "Infinite Jest"
+"I wish I could freeze this moment, right here, right now and live in it forever." - Suzanne Collins
+"Living in the past won't save you from the future." - Unknown
+"You'll likely end up disappointed if you think people will care for you the way you care for them. Not everybody has your heart." - Unknown
+"The term "forgive and forget" doesn't make sense to me. Forgiving does allow us to stop dwelling on an issue, which isn't always healthy. But if we forget, we don't learn from our mistakes." - Meg Cabot, "Abandon"
+"The mind can't explain it, and you can't make it go away. It's called love." - Lois Lowry, "The Giver"
+"I'm sorry. I know you've been looking for something and this isn't it." - Unknown
+"I want to rest. I want to breathe quietly again." - Tennessee Williams
+"The universe is seeming really huge right now… I need something to hold on to." - E. Lockhart
+"We met at the wrong time. That's what I keep telling myself anyway. Maybe one day years from now, we'll meet in a coffee shop in a faraway city somewhere and we could give it another shot." - Unknown
+"My father had taught me to be nice first, because you can always be mean later, but once you've been mean to someone, they won't believe the nice anymore. So be nice, be nice, until it's time to stop being nice, then destroy them." - Laurell K. Hamilton
+"You can love someone so much. But if they don't want to be saved, nothing will save them. Not even love." - Kristie Betts
+"Photography is an art of observation. It has little to do with the things you see and everything to do with the way you see them" - Elliott Erwitt
+"You will always struggle with not feeling productive until you accept that your own joy can be something you produce. It is not the only thing you will make, nor should it be, but it is something valuable and beautiful." - Hank Green, "A Beautifully Foolish Endeavor"
+"I am longing to be with you, and by the sea, where we can talk together freely and build our castles in the air." - Bram Stoker, "Dracula"
+"Maybe experiencing death once doesn't prepare you for experiencing it again. Death isn't something you can practice." - Abdi Nazemian, "Like a Love Story"
+"If you don't fight for what you want, don't cry for what you lost." - Jan Jansen
+"I can tell you're not yourself lately and I hope wherever you've gone, you feel free." - R.M. Drake
+"You must write, and read, as if your life depends on it." - Adrienne Rich
+"I am both worse and better than you thought." - Sylvia Plath, "The Unabridged Journals Of Sylvia Plath"
+"I feel myself shutting down, closing off, like I should tell people, 'No, we don't use this heart anymore. It's too fragile.'" - Courtney C. Stevens
+"Marianne had the sense that her real life was happening somewhere very far away, happening without her, and she didn’t know if she would ever find out where it was or become part of it." - Sally Rooney, "Normal People" 
+"Let the water settle; you will see the moon and stars mirrored in your being." - Rumi
+"Dreams are only dreams until you wake up and make them real." - Ned Vizzini, "It’s Kind of a Funny Story" 
+"The world is made up of people who try for things and people who sit on the sidelines watching them." - Jenna Evans Welch, "Love & Olives" 
+"I have hated words and I have loved them, and I hope I have made them right." - Markus Zusak, "The Book Thief" 
+"You don’t remember what happened. What you remember comes after what happened." - John Green
+"And it’s the most beautiful thing I’ve ever witnessed. That a creature like you exists in my world." - Nicole Torres
+"I’ll come around if you ever want to be in love." - James Bay
+"We need to forgive ourselves for all the things we didn’t do. All the things we should have done. You can’t get stuck on the regrets of what should have happened." - Mitch Albom
+"I think part of the reason people take photos is because they’re afraid that moment will never happen again." - Unknown
+"We are all ordinary. We are all boring. We are all shy. We are all bold. We are all heroes. We are all helpless. It just depends on the day." - Brad Meltzer
+"You rarely regret the things you do, but always the things you don’t." - Marie Lu, "Rebel" 
+"For a star to be born, there is one thing that must happen: a gaseous nebula must collapse. So collapse. Crumble. This is not your destruction. This is your birth." - Zoe Skylar
+"Don’t think. It complicates things. Just feel, and if it feels like home, then follow its path." - R.M. Drake
+"When you come back, you will not be you. And I may not be I." - E.M. Forster
+"Saying nothing sometimes says the most." - Emily Dickinson
+"It’s all right to love someone that doesn’t love you back, as long as they’re worth you loving them. As long as they deserve it." - Cassandra Clare
+"Because once you hear something, you can never return to the time before you heard it." - Jonathan Safran Foer
+"I’ve always done whatever I felt like doing in life. People may try to stop me, and convince me I’m wrong, but I won’t change." - Haruki Murakami, "What I Talk About When I Talk About Running" 
+"True love stories never have endings." - Richard Bach
+"I’m attracted to the extreme light and the extreme dark. I’m interested in the human condition and what makes people tick. I’m interested in the things people try to hide." - Johnny Depp
+"You don’t need to force yourself to like me; I don’t even like myself much." - Haruki Murakami, "Colorless Tsukuru Tazari and His Years of Pilgrimage" 
+"She was the kind of person who took care of things by herself. She’d never ask anybody for advice or help. It wasn’t a matter of pride, I think. She just did what seemed natural to her." - Haruki Murakami
+"People often ask me questions that I cannot very well answer in words, and it makes me sad to think they are unable to hear the voice of my silence." - Hazrat Inayat Khan
+"I mustn’t look at you too much, or I won’t be able to take my eyes off you at all." - Franz Kafka
+"You’re important to me. I think if there’s anything that will last forever, it’s that. Whether we separate, stay in touch or rarely speak again, you will always be that little someone I really do care for, that I would sacrifice everything for to protect and keep safe." - Beau Taplin, "The Promise" 
+"Truth is, the best revenge is seeking none at all and investing that energy in your own health and progress, prioritising personal goals you’ve been neglecting, and working toward creating a passionate, prosperous and fulfilling future of your own." - Beau Taplin, "The Best Revenge" 
+"When people don’t express themselves, they die one piece at a time. You’d be shocked at how many adults are really dead inside — walking through their days with no idea who they are." - Laurie Halse Anderson, "Speak" 
+"Nothing is quite as beautiful as someone who has survived losing everything and still has a tender heart." - Unknown
+"Probably someone should take this girl in his arms and hold her tight, I thought. Probably someone other than me. Someone qualified to give her something." - Haruki Murakami
+"You can keep as quiet as you like, but one of these days somebody is going to find you." - Haruki Murakami, "1Q84" 
+"I am not actually tired, but numb and heavy, and can’t find the right words." - Franz Kafka
