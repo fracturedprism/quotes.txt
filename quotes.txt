@@ -1838,9 +1838,9 @@ What's the point of having a voice if you're gonna be silent in those moments yo
 "It’s tough to get out of bed; I know that myself. You can lie there for an hour and a half without thinking anything, just worrying about what the day holds and knowing that you won’t be able to deal with it." - Ned Vizzini, "It’s Kind of a Funny Story"
 "There are years that ask questions and years that answer." - Zora Neale Hurston, "Their Eyes Were Watching God"
 "Say it before you run out of time. Say it before it’s too late. Say what you’re feeling. Waiting is a mistake." - Unknown
-"We are our own dragons as well as our own heroes, and we have to rescue ourselves from ourselves." - Tom Robbins, "Still Life With Woodpecker" 
+"We are our own dragons as well as our own heroes, and we have to rescue ourselves from ourselves." - Tom Robbins, "Still Life With Woodpecker"
 "All change is not growth, as all movement is not forward." - Ellen Glasgow
-"It’s never too late while you’re breathing." - Lois McMaster Bujold, "The Warrior’s Apprentice" 
+"It’s never too late while you’re breathing." - Lois McMaster Bujold, "The Warrior’s Apprentice"
 "The heart wants what it wants. There’s no logic to these things. You meet someone and you fall in love and that’s that." - Woody Allen
 "True humility is not thinking less of yourself; it is thinking of yourself less." - C.S. Lewis
 "I will tell you what she was like. She was like a piano in a country where everyone has had their hands cut off." - Angela Carter
@@ -1848,18 +1848,53 @@ What's the point of having a voice if you're gonna be silent in those moments yo
 "The image of the morning sun in a dewdrop is not less than the sun. The reflection of life in your soul is not less than life." - Khalil Gibran
 "Play me like I’m your favorite song. I know I might not be your favorite forever, but at least I was for a moment." - Unknown
 "A negative mind will never give you a positive life." - Unknown
-"I want to run into the foothills and scream into the canyons. I want my voice to echo and crack the ground beneath my feet." - Samira Ahmed, "Internment" 
+"I want to run into the foothills and scream into the canyons. I want my voice to echo and crack the ground beneath my feet." - Samira Ahmed, "Internment"
 "It was the kind of kiss that made me know that I was never so happy in my whole life." - Stephen Chbosky
 "Sometimes happiness looks like staying at home, minding your business, telling people no and doing you." - Unknown
 "A million dollars sounds like a lot, I know. Especially when you’re young. But you can’t let money erode your principles or you’ll wind up with nothing." - Wendelin Van Draanen, "Sammy Keyes And The Dead Giveaway"
-"We sometimes encounter people, even perfect strangers, who begin to interest us at first sight, somehow suddenly, all at once, before a word has been spoken." - Fyodor Dostoyevsky, "Crime and Punishment" 
-"I don’t know how I can be so ambitious and so lazy at the same time." - Ned Vizzini, "It’s Kind of a Funny Story" 
+"We sometimes encounter people, even perfect strangers, who begin to interest us at first sight, somehow suddenly, all at once, before a word has been spoken." - Fyodor Dostoyevsky, "Crime and Punishment"
+"I don’t know how I can be so ambitious and so lazy at the same time." - Ned Vizzini, "It’s Kind of a Funny Story"
 "Only the dead have seen the end of war." - Plato
 "There are times to stay put, and what you want will come to you, and there are times to go out into the world and find such a thing for yourself." - Lemony Snicket
 "You have so many layers, that you can peel away a few, and everyone’s so shocked or impressed that you’re baring your soul, while to you it’s nothing, because you know you’ve twenty more layers to go." - Craig Thompson
 "I think the devil doesn’t exist, but man has created him; he has created him in his own image and likeness." - Fyodor Dostoyevsky
-"But that didn’t mean those things weren’t worth doing. Someone had to carry on with the small acts that kept civilization moving. And this time it was her turn." - Yoon Ha Lee, "Revenant Gun" 
+"But that didn’t mean those things weren’t worth doing. Someone had to carry on with the small acts that kept civilization moving. And this time it was her turn." - Yoon Ha Lee, "Revenant Gun"
 "Happiness is not a matter of intensity but of balance and order and rhythm and harmony." - Thomas Merton
-"What does anyone know for certain except the sun will set tonight and come up tomorrow?" - Mary Downing Hahn, "Guest" 
-"Most times, it’s just a lot easier not to let the world know what’s wrong." - Chuck Palahniuk, "Invisible Monsters" 
+"What does anyone know for certain except the sun will set tonight and come up tomorrow?" - Mary Downing Hahn, "Guest"
+"Most times, it’s just a lot easier not to let the world know what’s wrong." - Chuck Palahniuk, "Invisible Monsters"
 "Some words stay in your head long after they’re spoken." - Robin Roe
+"Of course I’ll hurt you. Of course you’ll hurt me. Of course we will hurt each other. But this is the very condition of existence. To become spring, means accepting the risk of winter. To become presence, means accepting the risk of absence." - Antoine de Saint Exupéry, "The Little Prince"
+"The shame of it was they both loved each other, but they were both too young to know how to love." - Antoine de Saint Exupéry, "The Little Prince"
+"Write her a letter, send her a flower; love only gets old if you let it." - William Chapman
+"May your love be modern enough to survive the times, but old-fashioned enough to last forever." - Unknown
+"Before you give up, think about why you held on for so long." - Unknown
+"When pain brings you down, don’t be silly, don’t close your eyes and cry; you just might be in the best position to see the sun shine." - Alanis Morissette
+"If you persistently seek validation from others, you will inadvertently invalidate your own self-worth." - Dodinsky
+"The state of your life is nothing more than a reflection of the state of your mind." - Wayne W. Dyer
+"Well, I like to eat, sleep, drink, and be in love. I like to work, read, learn, and understand life." - Langston Hughes
+"Every night I come to the same place and wait until the sky catches up with my mood." - Joe Dunthorne
+"I don’t really want to become normal, average, standard. I want merely to gain in strength, in the courage to live out my life more fully, enjoy more, experience more. I want to develop even more original and more unconventional traits." - Anaïs Nin
+"One heart is not connected to another through harmony alone. They are, instead, linked deeply through their wounds. Pain linked to pain, fragility to fragility. There is no silence without a cry of grief, no forgiveness without bloodshed, no acceptance without a passage through acute loss. That is what lies at the root of true harmony." - Haruki Murakami
+"The roots of all living things are tied together. Deep in the ground of being, they tangle and embrace. If we look deeply, we find that we do not have a separate self-identity, a self that does not include sun and wind, earth and water, creatures and plants, and one another." - Joan Halifax
+"The best way to find out if you can trust somebody is to trust them." - Ernest Hemingway
+"When something bothered me, I didn’t talk with anyone about it. I thought it over all by myself, came to a conclusion, and took action alone. Not that I really felt lonely. I thought that’s just the way things are. Human beings, in the final analysis, have to survive on their own." - Haruki Murakami
+"Halls are full of strangers, even when you recognize the faces." - Jayme K.
+"When I look at the world I’m pessimistic, but when I look at people I am optimistic." - Carl R. Rogers
+"Until we have seen someone’s darkness, we don’t really know who they are. Until we have forgiven someone’s darkness, we don’t really know what love is." - Marianne Williamson
+"How strange it is. We have these deep terrible lingering fears about ourselves and the people we love. Yet we walk around, talk to people, eat and drink. We manage to function. The feelings are deep and real. Shouldn’t they paralyze us? How is it we can survive them, at least for a little while? We drive a car, we teach a class. How is it no one sees how deeply afraid we were, last night, this morning? Is it something we all hide from each other, by mutual consent? Or do we share the same secret without knowing it? Wear the same disguise?" - Don DeLillo
+"I want to look back and say that I was alive. That I didn’t turn my back. That I tried. That I was happy." - Evelyn Waugh, "Brideshead Revisited"
+"And then something invisible snapped insider her, and that which had come together commenced to fall apart." - John Green, "Looking for Alaska"
+"You can pretend for a long time, but one day it all falls away and you are alone. We are alone in the most beautiful place in the world." - Jean Rhys, "Wide Sargasso Sea"
+"Because no matter where you run, you just end up running into yourself." - Truman Capote, "Breakfast At Tiffany’s"
+"A good test of a relationship is how well you both deal with challenges. If one person is more invested, it shows. If you’re with the wrong person, it feels like too much work. But if you’re unhappy more than you’re happy, it’s not the right relationship for you." - Susane Colasanti, "All I Need"
+"Make a radical change in your lifestyle and begin to boldly do things which you may previously never have thought of doing, or been too hesitant to attempt. So many people live within unhappy circumstances and yet will not take the initiative to change their situation because they are conditioned to a life of security, conformity, and conservation, all of which may appear to give one peace of mind, but in reality nothing is more damaging to a man than a secure future." - Jon Krakauer, "Into the Wild"
+"The very basic core of a man’s living spirit is his passion for adventure. The joy of life comes from our encounters with new experiences, and hence there is no greater joy than to have an endlessly changing horizon, for each day to have a new and different sun. If you want to get more out of life, you must lose your inclination for monotonous security and adopt a helter-skelter style of life that will at first appear to you to be crazy. But once you become accustomed to such a life you will see its full meaning and its incredible beauty." - Jon Krakauer, "Into the Wild"
+"There were days when she was very happy without knowing why. She was happy to be alive and breathing, when her whole being seemed to be one with the sunlight, the color, the odors, the luxuriant warmth of some perfect Southern day. She liked then to wander alone into strange and unfamiliar places. She discovered many a sunny, sleepy corner, fashioned to dream in. And she found it good to dream and to be alone and unmolested. There were days when she was unhappy, she did not know why—when it did not seem worth while to be glad or sorry, to be alive or dead; when life appeared to her like a grotesque pandemonium and humanity like worms struggling blindly toward inevitable annihilation." - Kate Chopin, The Awakening
+"There are two kinds of people in this world: Those who believe there are two kinds of people in this world and those who are smart enough to know better." - Tom Robbins, "Still Life with Woodpecker"
+"Letting yourself get hurt isn’t brave, love. Brave is protecting others from hurt." - Amie Kaufman, "This Shattered World"
+"People did change, and a change could be a bloom as well as a withering." - Richard Yates, "Revolutionary Road"
+"If you don’t try at anything, you can’t fail; it takes backbone to lead the life you want." - Richard Yates, "Revolutionary Road"
+"My point is, there are a lot of people in the world. No one ever sees everything the same way you do; it just doesn’t happen. So when you find one person who gets a couple of things, especially if they’re important ones, you might as well hold on to them." - Sarah Dessen
+"It was good, and nothing good is truly lost. It stays part of a person, becomes part of their character. So part of you goes everywhere with me. And part of me is yours, forever." - Rosamunde Pitcher
+"Sometimes you need to lose yourself a few times before you can find yourself." - Unknown
+"This is your life and it’s ending one moment at a time." - David Fincher
